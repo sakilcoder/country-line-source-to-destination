@@ -1,7 +1,14 @@
 
 var styleCountry = {
-    weight: 2,
-    color: "#1C4E81",
+    weight: 1,
+    color: "#000",
+    opacity: 1,
+    fillColor: "#1C4E81",
+    fillOpacity: 1,
+}
+var styleEu = {
+    weight: 1,
+    color: "#000",
     opacity: 1,
     fillColor: "#1C4E81",
     fillOpacity: 1,
